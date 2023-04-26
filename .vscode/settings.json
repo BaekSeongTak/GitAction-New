@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5028e7f5-d798-4648-9702-770baea97d89/resourceGroups/tak-git-action-demo-rg/providers/Microsoft.Web/sites/tak-git-action-demo"
+}

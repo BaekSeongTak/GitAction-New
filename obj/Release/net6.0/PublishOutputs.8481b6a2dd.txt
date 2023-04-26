@@ -1,0 +1,7 @@
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\MyFristWebApp.exe
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\MyFristWebApp.dll
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\MyFristWebApp.deps.json
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\MyFristWebApp.runtimeconfig.json
+C:\Users\tak\MyFristWebApp\bin\Release\net6.0\publish\MyFristWebApp.pdb
